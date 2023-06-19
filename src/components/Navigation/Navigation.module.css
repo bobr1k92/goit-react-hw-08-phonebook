@@ -1,11 +1,12 @@
 .link {
-    display: inline-block;
-    text-decoration: none;
-    padding: 12px;
-    font-weight: 700;
-    color: var(--primary-text-color);
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  color: var(--primary-text-color);
 }
 
 .link.active {
-    color: var(--accent-color);
+  color: var(--accent-color);
 }
